@@ -319,16 +319,7 @@ Este projeto é disponibilizado sob a licença **CC0 (Domínio Público)** — v
 
 ## 👤 Autor
 
-Projeto de Previsão de Taxa de Câmbio | Dezembro 2025
-
----
-
-## 📞 Contato
-
-Para dúvidas, sugestões ou colaborações:
-- Abra uma issue no GitHub
-- Comente no notebook Kaggle
-- Envie um email
+Eduardo Antonio Giehl e Eduardo Lang Tessaro
 
 ---
 
